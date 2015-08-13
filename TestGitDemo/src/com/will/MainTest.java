@@ -7,6 +7,13 @@ public class MainTest
 	{
 		System.out.println("Hello GitHub.");
 
+		String str = "abc,ddd,abc,weer";
+		String[] strArray = str.split(",");
+		for (String perStr : strArray)
+		{
+			System.out.println(perStr);
+		}
+
 	}
 
 }
