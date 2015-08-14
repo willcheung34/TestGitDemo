@@ -13,6 +13,7 @@ public class MainTest
 		{
 			System.out.println(perStr);
 		}
+		System.out.println("```````````````````");
 
 	}
 
