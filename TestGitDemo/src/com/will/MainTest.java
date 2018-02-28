@@ -14,7 +14,7 @@ public class MainTest
 			System.out.println(perStr);
 		}
 		System.out.println("```````````````````");
-		System.out.println("add new");
+		System.out.println("add new new new");
 
 	}
 
