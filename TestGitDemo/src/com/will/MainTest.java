@@ -15,6 +15,7 @@ public class MainTest
 		}
 		System.out.println("```````````````````");
 		System.out.println("add new new new");
+		System.out.println("new new");
 
 	}
 
